@@ -38,6 +38,7 @@ src/main/java
 
 ## API Endpoints
 
+
 | Method | Endpoint        | Description      |
 | ------ | --------------- | ---------------- |
 | POST   | /api/todos      | Create a task    |
@@ -61,7 +62,7 @@ SPRING_DATASOURCE_PASSWORD=
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/todo-backend.git
+git clone https://github.com/seetharam001/todo-backend.git
 ```
 
 2. Navigate to the project:
